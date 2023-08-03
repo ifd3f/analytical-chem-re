@@ -3,7 +3,7 @@ name = "dump-at27c1024"
 version = "0.1.0"
 authors = ["Astrid Yu <astrid@astrid.tech>"]
 edition = "2021"
-license = "MIT OR Apache-2.0"
+license = "GPL-3.0"
 
 [[bin]]
 name = "dump-at27c1024"
